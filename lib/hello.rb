@@ -6,8 +6,6 @@ def hello_t(array)
   yeild array[i]
   i = i+1
 end
-  
-
 end
 
 hello_t(["Tim", "Tom", "Jim"]) 
