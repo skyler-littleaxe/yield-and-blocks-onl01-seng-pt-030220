@@ -1,13 +1,14 @@
-def hello_t(array)
-  i = 0
+#def hello_t(array)
+ 
+ # i = 0
   
-  while i < array.length
-  yeild array[i]
-  i = i+1
-end
+ # while i < array.length
+  #yeild array[i]
+  #i = i+1
+#end
   
 
-end
+#end
 
 hello_t(["Tim", "Tom", "Jim"])
 do |name|
